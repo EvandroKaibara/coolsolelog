@@ -1,0 +1,13 @@
+# coolsolelog
+
+## Descrição
+Um console.log mais emocionante!
+
+## Instalação
+```sh
+npm install @evandrokaibara/coolsolelog
+
+## Uso
+import coolsolelog from "@evandrokaibara/coolsolelog";
+
+coolsolelog("Oi gente!");
